@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🎓 Engineering Student passionate about **creative problem solving**  
 - 💡 Interested in **building real-world solutions** using code  
-- 🌱 Currently learning **React, Django, and DSA**  
+- 🌱 Currently learning **React, and DSA**  
 - ✨ Motto: *"Creativity + Logic = Innovation"*  
 
 ---
