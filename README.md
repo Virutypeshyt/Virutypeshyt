@@ -25,7 +25,7 @@
 
 ## 🌐 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/virendra-gaikwad-pvr227/" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:your-email@gmail.com" target="blank">
