@@ -18,10 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Virendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
----
 
 ## 🌐 Let's Connect
 <p align="left">
