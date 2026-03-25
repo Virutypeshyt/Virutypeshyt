@@ -1,4 +1,4 @@
-<h1 align="center">Typeshift ✌️, I'm Virendra</h1>
+<h1 align="center">I am Virendra</h1>
 <h3 align="center">🌟 Creative Thinker | 💡 Problem Solver | 👨‍💻 Tech Explorer</h3>
 
 ---
